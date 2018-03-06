@@ -310,9 +310,68 @@ top: -271.5;
 .textCenteredFour {/* color:red; */position: relative;top: -497px;left: 57px;}
 
 .imageThree {
-/* top:20px; */
+/* top:20px; */
 }
 
 
     
+}
+
+@media only screen and (max-width: 980px) and (min-width: 769px) {
+
+/*.col-md-8 {
+width: 50%;
+float: left;
+}
+
+
+.col-md-11 {
+float: right;
+}*/
+
+.navbar-default {
+/* color:red; */
+/* margin: auto 20px auto 20px; */
+margin-right: 50px;
+margin-left: 50px;
+/* margin-top: 20px; */
+margin-top: 20px;
+}
+
+.aboutLink, .contactLink, .portfolioLink {
+ /*color:red; */
+position: relative;
+left: 123px;
+}
+
+
+.col-md-8 {position:relative;width: 50%;float: left;}
+
+.input input {width: 300px;}
+
+.email input {margin-bottom:10px;width: 300px;}
+
+textarea {width: 300px;}
+
+
+.col-md-4 {
+position:relative;
+float: right;
+}
+
+.imgOne {position:relative;left: -48px;width: 246px;}
+
+.textCentered {/* color:red; */position: relative;top: -47px;left: -19px;}
+
+.imgTwo {position:relative;left: 24px;top: 222px;width: 246px;}
+
+.textcenteredTwo {position:relative;left: 56px;top: 168.5px;}
+
+.imgThree {position:relative;left: 25px;top: 217px;width: 246px;}
+
+.textcenteredThree {position:relative;left: 55px;top: 172px;}
+
+.imgFour {position:relative;left: 23px;top: -448px;width: 246px;}
+
+.textCenteredFour {/* color:red; */position: relative;top: -497px;left: 57px;}
 }
