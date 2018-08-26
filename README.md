@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-This is my basic portfolio, but I have added media queries to make it responsive for 980px width, 768px width, and 640px width.
+This is my basic portfolio, but I have added media queries to make it responsive for 980px width, 768px width, and 640px width. It is a multipaged website, with an about page, contact page and portfolio page.
 The live link is available on the main repo page.
 
 To open it locally, open your terminal and type:
